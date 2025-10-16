@@ -9,7 +9,7 @@ This project focuses on responsive design, accessibility, and performance optimi
 
 🚀 Live Demo
 
-👉 https://your-username.github.io/leon-template/
+👉 https://github.com/ahmednabil22224/Leon-Template
 
 (Replace with your real link after publishing on GitHub Pages)
 
@@ -52,6 +52,7 @@ SEO 100%
 
 ---
 
+```
 📂 Folder Structure
 leon-template/
 │
@@ -66,3 +67,4 @@ leon-template/
 │ ├── preview-tablet.png
 │ └── preview-mobile.png
 └── README.md
+```
