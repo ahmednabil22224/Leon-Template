@@ -1,0 +1,28 @@
+# OS / system files
+.DS_Store
+Thumbs.db
+
+# Node / dependencies (if you use npm later)
+node_modules/
+package-lock.json
+
+# Build files
+dist/
+build/
+
+# VS Code settings
+.vscode/
+
+# Environment / secrets
+.env
+
+# Temporary files
+*.log
+*.tmp
+
+# Reports or local assets
+*.pdf
+*.zip
+
+# Git itself
+.gitignore
