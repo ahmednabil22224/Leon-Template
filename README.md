@@ -50,6 +50,12 @@ Accessibility 92%
 Best Practices 100%
 SEO 100%
 
+images/lighthouse-report.png
+
+## ⚡ Lighthouse Report
+
+![Lighthouse Report](./images/lighthouse-report.png)
+
 ---
 
 ```
@@ -68,3 +74,14 @@ leon-template/
 │ └── preview-mobile.png
 └── README.md
 ```
+
+## 📸 Preview
+
+**Desktop View**
+![Desktop Preview](./images/preview-desktop.png)
+
+**Tablet View**
+![Tablet Preview](./images/preview-tablet.png)
+
+**Mobile View**
+![Mobile Preview](./images/preview-mobile.png)
