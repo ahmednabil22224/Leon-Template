@@ -11,8 +11,6 @@ This project focuses on responsive design, accessibility, and performance optimi
 
 👉 https://github.com/ahmednabil22224/Leon-Template
 
-(Replace with your real link after publishing on GitHub Pages)
-
 ---
 
 🧩 Features
@@ -45,7 +43,7 @@ This project focuses on responsive design, accessibility, and performance optimi
 
 ⚙️ Lighthouse Results
 Category Score
-Performance 99%
+Performance 100%
 Accessibility 92%
 Best Practices 100%
 SEO 100%
